@@ -1,4 +1,4 @@
-# SpaceX-Capstone
+# SpaceY: Data Driven Space
 Applied Data Science Capstone (by IBM) 
 Module 1. Introduction: Data collection and data wrangling.
 Module 2. EDA. 
